@@ -1,3 +1,11 @@
-#all-articles h2+ p{
-    color: green;
+span[class~="decl"]{
+    color: purple;
+}
+
+div[id]{
+    color: grey;
+}
+
+a[href^="http"]{
+    color:pink;
 }
