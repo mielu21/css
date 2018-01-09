@@ -1,11 +1,7 @@
-span[class~="decl"]{
-    color: purple;
+a:hover{
+    color: red;
 }
 
-div[id]{
-    color: grey;
-}
-
-a[href^="http"]{
-    color:pink;
+#main-content{
+    background: red;
 }
