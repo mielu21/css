@@ -1,17 +1,16 @@
-h2{
-    font-size: 24px;
-}
-
-#content-header{
-    font-size: 17px;
+body{
     color: red;
 }
 
-span{
-    display: block;
+div{
     color: blue;
 }
 
-.deck{
-    color: red;
+p{
+    color: green;
+}
+
+a{
+    color: yellow;
+    text-decoration: underline;
 }
