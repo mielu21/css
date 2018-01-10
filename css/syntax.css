@@ -1,34 +1,15 @@
-#circle{
-    width: 400px;
-    height: 400px;
-    position: absolute;
-    background: rgba(200,200,100,0.1);
-    border-radius: 200px;
-    top:50px;
-    left:50px;
+.button{
+    display: block;
+    width: 100px;
+    padding: 12px;
+    border: 1px solid #77aaaa;
+    font-family: arial;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 14px;
     text-align: center;
-}
-
-
-#circle-2{
-    width: 400px;
-    height: 400px;
-    position: absolute;
-    background: rgba(200,100,200,0.5);
-    border-radius: 200px;
-    top:250px;
-    left:150px;
-    text-align: center;
-}
-
-#circle-3{
-    width: 400px;
-    height: 400px;
-    position: absolute;
-    background: rgba(100,200,200,0.7);
-    border-radius: 200px;
-    top:50px;
-    left:250px;
-    text-align: center;
-    
+    border-radius: 4px;
+    background: #aadddd;
+    background: -webkit-linear-gradient(top, #aadddd 0%, #77aaaa 100%);
 }
