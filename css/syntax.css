@@ -1,8 +1,34 @@
-.static-width{
-    width: 300px;
-    height: 300px;
-    background-color: #606060;
-    background-image: url();
-    background-repeat: no-repeat;
+#circle{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background: rgba(200,200,100,0.1);
+    border-radius: 200px;
+    top:50px;
+    left:50px;
+    text-align: center;
 }
 
+
+#circle-2{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background: rgba(200,100,200,0.5);
+    border-radius: 200px;
+    top:250px;
+    left:150px;
+    text-align: center;
+}
+
+#circle-3{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    background: rgba(100,200,200,0.7);
+    border-radius: 200px;
+    top:50px;
+    left:250px;
+    text-align: center;
+    
+}
